@@ -57,18 +57,21 @@
     {
       "id": 1,
       "idUser": 123,
+      "idParentCollection": 0,
       "title": "Dog Things",
       "isInTrash": false
     },
     {
       "id": 2,
       "idUser": 123,
+      "idParentCollection": 0,
       "title": "Cat Things",
       "isInTrash": false
     },
     {
       "id": 3,
       "idUser": "124",
+      "idParentCollection": 0,
       "title": "Bedroom Dec",
       "isInTrash": false
     },
