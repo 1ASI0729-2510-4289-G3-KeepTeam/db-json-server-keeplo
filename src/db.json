@@ -82,6 +82,21 @@
       "title": "More Dog Things",
       "isInTrash": false
     }
+    ,
+    {
+      "id": 5,
+      "idUser": 123,
+      "idParentCollection": 1,
+      "title": "More Dog Things To Delete",
+      "isInTrash": true
+    },
+    {
+      "id": 6,
+      "idUser": 123,
+      "idParentCollection": 1,
+      "title": "Rambo",
+      "isInTrash": true
+    }
   ],
   "items": [
     {
